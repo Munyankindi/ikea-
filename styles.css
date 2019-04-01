@@ -1,0 +1,112 @@
+div{
+	background-color:;
+	width: 70%;
+	height: 100%;
+	float: left;
+	margin-top: 10px;
+	margin-left: 200px;
+}
+.im1{
+	float: right;
+	margin-top: 20px;
+}
+.l1{
+	float: right;
+	margin-right: 300px;
+	margin-top: 20px;
+}
+li{
+	display: inline-block;
+	margin: 5px;
+}
+.l2{
+	float: left;
+}
+.im2{
+	float: left;
+	
+}
+.p1{
+	margin-top: 300px;
+	margin-left: 70px;
+
+}
+.im4{
+	float: right;
+	margin-right: 100px;
+	width: 250px;
+	height: 200px;
+}
+button{
+	margin-top: 10px;
+	border: transparent;
+	background-color: #4CAF50;
+	margin-left: 150px;
+}
+
+.d2{
+	background-color:
+	width: 70%;
+}
+.p2{
+   margin-top: 10px;
+}
+.im5{
+	float: left;
+	 margin: 20px;
+}
+.n1{
+	margin-top: 400px;
+	text-indent: 50%;
+}
+.d3{
+	
+	width: 70%;
+	height: 100%;
+	float: left;
+	margin-top: 10px;
+	margin-left: 200px;
+}
+.p4{
+	margin-top: 30px;
+	background-color:;
+	width: 100%;
+	margin-left: 0px;
+	text-indent: 30px;
+	height: 30%;
+}
+.p5{
+	float: left;
+	
+}
+.p6{
+	float: left;
+	margin:10px;
+}
+.p7{
+	float: left;
+}
+.p8{
+	float: left;
+	
+}
+.p9{
+	float: left;
+	margin: 10px;
+	
+
+}
+.p10{
+	float: left;
+	
+
+}
+.g1{
+	background-color:;
+	margin-top: 30px;
+	margin-left: 0px;
+	width: 100%;
+	text-indent: 30px;
+}
+}
+}
